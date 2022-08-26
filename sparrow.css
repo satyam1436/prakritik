@@ -76,21 +76,6 @@
         {
             transform:scale(1.1,1.1);
         }
-.hoarea
-    {
-        padding: 29px 0 0 0;
-        text-align: right;
-    }
-    .hoarea img
-        {
-            width: 40%;
-            transition:all 1s;
-            margin-bottom: 15px;
-        }
-    .hoarea img:hover
-        {
-            transform:scale(1.1,1.1);
-        }
 .farea
     {
         padding: 20px;
