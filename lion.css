@@ -38,6 +38,10 @@
 				padding:10px 15px;
 				display:block;
             }
+            .harea a:link,.harea a:visited
+            {
+                text-decoration: none;
+            }
             .box
                 {
                     overflow: hidden;

@@ -13,7 +13,7 @@
             width: 50%;
             height: 80%;
         }
-    .harea h1
+        .harea h1
         {
             text-align: center;
             padding: 40px 0 0 0;
@@ -30,6 +30,7 @@
             {
                 float: left;
                 font: bold 30px arial;
+                color: white;
             }
         .harea ul li a:link,.harea ul li a:visited
             {
@@ -38,51 +39,7 @@
 				padding:10px 15px;
 				display:block;
             }
-            .harea a:link,.harea a:visited
+        .harea a:link,.harea a:visited
             {
                 text-decoration: none;
             }
-            .box
-                {
-                    overflow: hidden;
-                }
-            .box img
-                {
-                    width: 50%;
-                }
-            .box h1
-                {
-                    font-family: 'Russo One', sans-serif;
-                }
-.iparea
-    {
-        padding-bottom: 50px;
-    }
-.parea h4
-    {
-        font-family: 'Russo One', sans-serif;
-    }
-.parea p
-    {
-        text-align: justify;
-        font-family: 'Lora', serif;
-    }
-.anarea
-    {
-        text-align: center;
-        overflow: hidden;
-    }
-    .anarea img
-        {
-            transition:all 1s;
-        }
-    .anarea img:hover
-        {
-            transform:scale(1.1,1.1);
-        }
-.farea
-    {
-        padding: 20px;
-        background: black;
-        text-align: center;
-    }
