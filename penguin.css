@@ -18,7 +18,7 @@
             text-align: center;
             padding: 40px 0 0 0;
             color: white;
-            font-family: 'Russo One', sans-serif;
+            font-family: 'Abril Fatface', cursive;
         }
         .harea ul
             {
@@ -41,7 +41,7 @@
             .harea a:link,.harea a:visited
             {
                 text-decoration: none;
-            }
+            }*/
             .box
                 {
                     overflow: hidden;
@@ -49,7 +49,7 @@
             .box img
                 {
                     width: 50%;
-                }*/
+                }
 .iparea
     {
         padding-bottom: 50px;
