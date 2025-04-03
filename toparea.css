@@ -1,47 +1,48 @@
-.harea
-    {
-        background: #156945;
-        position: sticky;
-        top: 0;
-        z-index: 1000;
-        opacity: 0.8;
-        margin: 0;
-        padding: 0;
-    }
-    .harea img
-        {
-            width: 50%;
-            height: 80%;
-        }
-        .harea h1
-        {
-            text-align: center;
-            padding: 40px 0 0 0;
-            color: white;
-            font-family: 'Russo One', sans-serif;
-            /*background: red;*/
-            margin: 0;
-        }
-        .harea ul
-            {
-                list-style: none;
-                margin:0;
-				padding: 40px 0 0 0;
-            }
-        .harea ul li
-            {
-                float: left;
-                font: bold 30px arial;
-                color: white;
-            }
-        .harea ul li a:link,.harea ul li a:visited
-            {
-                text-decoration:none;
-				color: white;
-				padding:10px 15px;
-				display:block;
-            }
-        .harea a:link,.harea a:visited
-            {
-                text-decoration: none;
-            }
+.harea {
+    background: #156945;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    opacity: 0.8;
+    margin: 0;
+    padding: 0;
+}
+
+.harea img {
+    width: 50%;
+    height: 80%;
+}
+
+.harea h1 {
+    text-align: center;
+    padding: 40px 0 0 0;
+    color: white;
+    font-family: 'Russo One', sans-serif;
+    /*background: red;*/
+    margin: 0;
+}
+
+.harea ul {
+    list-style: none;
+    margin: 0;
+    padding: 40px 0 0 0;
+}
+
+.harea ul li {
+    float: left;
+    font: bold 30px arial;
+    color: white;
+}
+
+.harea ul li a:link,
+.harea ul li a:visited {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    display: block;
+}
+
+.harea a:link,
+.harea a:visited {
+    text-decoration: none;
+}

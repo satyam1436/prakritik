@@ -1,107 +1,105 @@
+.iarea {
+    padding: 50px;
+    background: white;
+}
 
-.iarea
-    {
-        padding: 50px;
-        background: white;
-    }
-    .iarea h1
-        {
-            text-align: center;
-            margin-bottom: 30px;
-            font-size: 50px;
-            color:#00A700;
-            font-family: 'Rubik Dirt', cursive;
-        }
+.iarea h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 50px;
+    color: #00A700;
+    font-family: 'Rubik Dirt', cursive;
+}
 
-    .box
-        {
-            
-            background: #F2F2F2;
-            overflow:hidden;
-        }
-        .box img
-            {
-                width: 100%;
-                transition:all 1s;
-            }
-        .box img:hover
-            {
-                transform:scale(1.1,1.1);
-            }
-        .box h2
-            {
-                margin-top: 17px;
-                font-family: 'Russo One', sans-serif;
-                text-align: center;
-            }
-        .box h4
-            {
-                text-align: center;
-            }
+.box {
 
-            
+    background: #F2F2F2;
+    overflow: hidden;
+}
+
+.box img {
+    width: 100%;
+    transition: all 1s;
+}
+
+.box img:hover {
+    transform: scale(1.1, 1.1);
+}
+
+.box h2 {
+    margin-top: 17px;
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+}
+
+.box h4 {
+    text-align: center;
+}
 
 
-.marea
-    {
-        padding: 50px 0;
-    }
-    .marea h1
-        {
-            text-align: center;
-            margin-bottom: 30px;
-            font-size: 50px;
-            color:#00A700;
-            font-family: 'Rubik Dirt', cursive;
-        }
-        .marea h4
-            {
-                margin: 10px 0;
-            }
-        .marea h4 a:link,.marea h4 a:visited
-            {
-                text-decoration: none;
-            }
-.darea
-    {
-        padding: 50px 0 40px 0;
-        background: #00A700;
-    }
-    .darea h1
-        {
-            text-align: center;
-            color: white;
-            margin-bottom: 30px;
-            font-family: 'Rubik Dirt', cursive;
-        }
-        .box1
-            {
-                background: #00A700;
-                overflow:hidden;
-            }
-        .box1 img   
-            {
-                width: 100%;
-                height: 100%;
-                transition:all 1s;
-            }
-        .box1 h4 a:link,.box1 h4 a:visited
-            {
-                text-decoration: none;
-            }
-        .box1 h4
-            {
-                color: white;
-                margin: 10px 0;
-                text-align: center;
-            }
-        .box1 img:hover
-            {
-                transform:scale(1.1,1.1);
-            }
-.farea
-    {
-        padding: 20px;
-        background: black;
-        text-align: center;
-    }
+
+
+.marea {
+    padding: 50px 0;
+}
+
+.marea h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 50px;
+    color: #00A700;
+    font-family: 'Rubik Dirt', cursive;
+}
+
+.marea h4 {
+    margin: 10px 0;
+}
+
+.marea h4 a:link,
+.marea h4 a:visited {
+    text-decoration: none;
+}
+
+.darea {
+    padding: 50px 0 40px 0;
+    background: #00A700;
+}
+
+.darea h1 {
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+    font-family: 'Rubik Dirt', cursive;
+}
+
+.box1 {
+    background: #00A700;
+    overflow: hidden;
+}
+
+.box1 img {
+    width: 100%;
+    height: 100%;
+    transition: all 1s;
+}
+
+.box1 h4 a:link,
+.box1 h4 a:visited {
+    text-decoration: none;
+}
+
+.box1 h4 {
+    color: white;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.box1 img:hover {
+    transform: scale(1.1, 1.1);
+}
+
+.farea {
+    padding: 20px;
+    background: black;
+    text-align: center;
+}
